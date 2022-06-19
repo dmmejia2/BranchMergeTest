@@ -1,2 +1,2 @@
 # BranchMergeTest
-Something in the readme
+Something in the readme!
